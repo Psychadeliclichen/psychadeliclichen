@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('lichen.jpg'); /* Replace 'background-image.jpg' with the actual file name of your background image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.welcome-page {
+    text-align: center;
+    margin-top: 100px;
+    background-color: rgba(255, 255, 255, 0.7); /* Add a semi-transparent white background to improve readability */
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.menu {
+    list-style-type: none;
+    padding: 0;
+}
+
+.menu li {
+    display: inline-block;
+    margin: 10px;
+}
+
+.menu a {
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.menu a:hover {
+    background-color: #2980b9;
+}

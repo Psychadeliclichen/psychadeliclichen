@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-image: url('lichen.jpg'); /* Add the path to your background image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.drawings-page {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #639b20; /* Add a white background color */
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.drawing {
+    margin-bottom: 30px;
+}
+
+.drawing img {
+    max-width: 100%; /* Ensure images don't exceed their container width */
+    border-radius: 5px;
+}
+
+/* Rest of your CSS remains unchanged */
