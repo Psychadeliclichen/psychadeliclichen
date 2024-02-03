@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-image: url('new backround.JPG'); /* Replace 'background-image.jpg' with the actual file name of your background image */
+    background-image: url('newbackround.JPG'); /* Replace 'background-image.jpg' with the actual file name of your background image */
     background-size: contain;
     background-position: center top;
     background-repeat: repeat;
